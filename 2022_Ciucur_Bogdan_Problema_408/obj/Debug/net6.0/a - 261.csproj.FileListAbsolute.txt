@@ -1,0 +1,15 @@
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.csproj.AssemblyReference.cache
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.AssemblyInfoInputs.cache
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.AssemblyInfo.cs
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.csproj.CoreCompileInputs.cache
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\bin\Debug\net6.0\a - 261.exe
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\bin\Debug\net6.0\a - 261.deps.json
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\bin\Debug\net6.0\a - 261.runtimeconfig.json
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\bin\Debug\net6.0\a - 261.dll
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\bin\Debug\net6.0\ref\a - 261.dll
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\bin\Debug\net6.0\a - 261.pdb
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.dll
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\ref\a - 261.dll
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.pdb
+D:\2022_Ciucur_Bogdan_Probleme\a - 261\obj\Debug\net6.0\a - 261.genruntimeconfig.cache

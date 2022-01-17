@@ -1,0 +1,15 @@
+D:\2022_Ciucur_Bogdan_Probleme\b_294\bin\Debug\net6.0\b_294.exe
+D:\2022_Ciucur_Bogdan_Probleme\b_294\bin\Debug\net6.0\b_294.deps.json
+D:\2022_Ciucur_Bogdan_Probleme\b_294\bin\Debug\net6.0\b_294.runtimeconfig.json
+D:\2022_Ciucur_Bogdan_Probleme\b_294\bin\Debug\net6.0\b_294.dll
+D:\2022_Ciucur_Bogdan_Probleme\b_294\bin\Debug\net6.0\ref\b_294.dll
+D:\2022_Ciucur_Bogdan_Probleme\b_294\bin\Debug\net6.0\b_294.pdb
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.csproj.AssemblyReference.cache
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.AssemblyInfoInputs.cache
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.AssemblyInfo.cs
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.csproj.CoreCompileInputs.cache
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.dll
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\ref\b_294.dll
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.pdb
+D:\2022_Ciucur_Bogdan_Probleme\b_294\obj\Debug\net6.0\b_294.genruntimeconfig.cache

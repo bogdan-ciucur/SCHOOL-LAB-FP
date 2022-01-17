@@ -1,0 +1,5 @@
+D:\2022_Ciucur_Bogdan_Probleme\d - 261\obj\Debug\net6.0\c_261.csproj.AssemblyReference.cache
+D:\2022_Ciucur_Bogdan_Probleme\d - 261\obj\Debug\net6.0\c_261.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_Ciucur_Bogdan_Probleme\d - 261\obj\Debug\net6.0\c_261.AssemblyInfoInputs.cache
+D:\2022_Ciucur_Bogdan_Probleme\d - 261\obj\Debug\net6.0\c_261.AssemblyInfo.cs
+D:\2022_Ciucur_Bogdan_Probleme\d - 261\obj\Debug\net6.0\c_261.csproj.CoreCompileInputs.cache
